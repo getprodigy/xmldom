@@ -1,0 +1,24 @@
+# Third party dependency checks (matched in any directory, not just the repo root)
+**/Gemfile                      @getprodigy/infosec-pr
+**/Gemfile.lock                 @getprodigy/infosec-pr
+**/package.json                 @getprodigy/infosec-pr
+**/package-lock.json            @getprodigy/infosec-pr
+**/yarn.lock                    @getprodigy/infosec-pr
+**/pyproject.toml               @getprodigy/infosec-pr
+**/poetry.lock                  @getprodigy/infosec-pr
+**/uv.lock                      @getprodigy/infosec-pr
+**/Pipfile                      @getprodigy/infosec-pr
+**/Pipfile.lock                 @getprodigy/infosec-pr
+**/setup.py                     @getprodigy/infosec-pr
+**/*requirements*.txt           @getprodigy/infosec-pr
+**/*requirements*.in            @getprodigy/infosec-pr
+**/go.mod                       @getprodigy/infosec-pr
+**/go.sum                       @getprodigy/infosec-pr
+**/build.gradle                 @getprodigy/infosec-pr
+**/build.gradle.kts             @getprodigy/infosec-pr
+**/settings.gradle.kts          @getprodigy/infosec-pr
+**/versions.properties          @getprodigy/infosec-pr
+**/pom.xml                      @getprodigy/infosec-pr
+**/requirements/*.txt           @getprodigy/infosec-pr
+**/requirements/*.in            @getprodigy/infosec-pr
+**/.yarn/cache/**               @getprodigy/infosec-pr
